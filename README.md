@@ -1,5 +1,5 @@
 # API_YAMDB
-API_YaMDb
+API_YaMDb (Group project)
 
 RESTful API code for the YaMDb project.
 The YaMDb project collects user reviews on works of art.
